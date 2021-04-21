@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/hywang66/wowchemy-widget-peopleplus
 
 go 1.15
